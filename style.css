@@ -1,0 +1,54 @@
+body{
+    background-color: crimson;
+}
+.container{
+    background-color: lightyellow;
+    margin: 10px;
+    border-radius: 5px;
+}
+footer{
+    border-top: 1px solid black;
+    text-align: center;
+}
+#welcome-section{
+    text-align: center;
+}
+
+#cover{
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 5%;
+    border-bottom: solid 1px;
+    background-color: azure;
+    border-radius: 5px;
+}
+nav a{
+    cursor: pointer;
+}
+nav li{
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+nav li a{
+    transition: all 0.3s ease 0s;
+}
+
+nav li a:hover{
+    color: green;
+}
+
+section{
+    margin-left: 15px;
+}
+
+.contact{
+    margin-left: 15px;
+}
+
