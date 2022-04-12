@@ -1,2 +1,2 @@
-alert("This is My First Blog Project. So, keep you mouth shut and gimme the numbers!");
+alert("This is My First Blog Project. keep me in your prayers!");
    
